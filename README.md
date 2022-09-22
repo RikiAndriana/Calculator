@@ -1,5 +1,2 @@
-+ Nama : **Riki Andriana**  
-
-#3 Calculator
-+ Simple calculator program
- 
+#2 Calculator | Riki Andriana** 
++ Program simple calculator menggunakan bahasa C#
